@@ -1,6 +1,6 @@
 # HealthCare
 Download and Install any local web server such as XAMPP.
-Download the provided source code zip file. (download button is located below)
+Download the provided project folder into the `htdocs` directory (`C:/xampp/htdocs`). 
 Run the XAMPP control panel and start MySQL and Apache
 Go to C:\xampp\htdocs and extract the downloaded zip file (healthcare) inside the folder
 Open the browser and go to http://localhost/phpmyadmin/ to create the database
